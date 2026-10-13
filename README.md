@@ -51,13 +51,6 @@ Focused on React ecosystem, scalable architecture, and performance.
 
 ---
 
-## 🎬 Content
-
-I create beginner-friendly React explanations and practical projects:
-
-🔗 **YouTube Channel:**  
-https://www.youtube.com/@maryess-en
-
 ---
 
 ## 📊 GitHub Stats
